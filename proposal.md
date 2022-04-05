@@ -38,7 +38,7 @@ The best outcome would be for us to get all of the graphics to work in our code 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-How to import human body/organ graphics and automating google searches using python. We need to research renpy in order to see how to add images and incorporate input. 
+For our next steps, we want to focus on getting more comfortable with renpy so that we can figure out how to make our game more visual and interactive as well as incorporate input from the player to get us through the case. Once we are more comfortable with that, we will work on adding buttons and other things which can make the game more appealing, like little add on icons and maybe even a little music. Then, we will put together the actual medical case using Adam and I’s background in medicine (coming from the same medical magnet high school) to make it as accurate as possible. Because there are two of us, we are going to first learn all of the new skills independently and then meet up in order to work on it and integrate our ideas. We’ll get a better idea on who will do what after we both research renpy and see what we’re most comfortable with and interested in. 
 
 
 
