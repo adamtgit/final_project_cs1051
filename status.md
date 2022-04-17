@@ -1,0 +1,31 @@
+# Status Report
+
+#### Your name
+
+Adam Tseng
+
+#### Your section leader's name
+
+Joanne Nichols
+
+#### Project title
+
+Google Docs
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+We have launched renpy and atom as well as the supporting folders into our computers to get acquainted with them. We have spent time playing around with all of the different functions and tutorials to understand the capabilities of the program. We can now input different images, change the text and background, and work atom to edit the source code. 
+
+#### What have you not done for your project yet?
+
+We have not coded the actual script for the Google Docs game yet, as we’re still getting comfortable with the program. We plan on starting that tomorrow now that we have had the weekend to work on familiarizing ourselves with the program. We have also not updated the GUI to show a properly sized image of a human body yet, which was our intention for the main screen of the game. 
+
+#### What problems, if any, have you encountered?
+
+We ran into some problems with image sizing and how to alter different pop ups in the game/change the default settings, but we are working on learning how to combat these issues with youtube and documentation tutorials. 
+
+
