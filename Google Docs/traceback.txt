@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 52, in script
+    show doctor angry:
+Exception: Image 'doctor' does not accept attributes 'angry'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 52, in script
+    show doctor angry:
+  File "renpy/ast.py", line 1197, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "renpy/ast.py", line 1167, in show_imspec
+    atl=atl)
+  File "renpy/exports.py", line 742, in show
+    if not base.find_target() and renpy.config.missing_show:
+  File "renpy/display/image.py", line 409, in find_target
+    self.target = target._duplicate(a)
+  File "renpy/display/core.py", line 390, in _duplicate
+    args.extraneous()
+  File "renpy/display/core.py", line 271, in extraneous
+    " ".join(self.args),
+Exception: Image 'doctor' does not accept attributes 'angry'.
+
+Windows-10-10.0.22000
+Ren'Py 7.4.11.2266
+Google Docs 1.0
+Tue Apr 19 22:13:52 2022
