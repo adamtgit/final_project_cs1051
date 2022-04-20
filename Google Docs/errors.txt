@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 25: expected 'simple_expression' not found.
+    xzoom 0.5, yzoom, 0.5
+                    ^
+
+File "game/script.rpy", line 36: Line is followed by a block, despite not being a menu choice. Did you forget a colon at the end of the line?
+    "Terrible ..."
+                  ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Mon Apr 18 15:31:18 2022
