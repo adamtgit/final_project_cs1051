@@ -7,7 +7,7 @@ Professor Rosen
 
 Google Docs Readme File
 
-Link to video walkthrough: https://www.youtube.com/watch?v=dm4vrHJlvN8&t=7s
+Link to video walkthrough: https://www.youtube.com/watch?v=uarPXR07OCk
 
 How to access our code: Google Docs folder --> game folder --> script.rpy 
 
