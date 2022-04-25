@@ -9,6 +9,8 @@ Google Docs Readme File
 
 Link to video walkthrough: https://www.youtube.com/watch?v=dm4vrHJlvN8&t=7s
 
+How to access our code: Google Docs folder --> game folder --> script.rpy 
+
 Why We Chose This Project:
 
 Both of us are pre-medical students taking computer science to help broaden our perspectives/skill sets so we decided to make a final project that would combine both of these interests in a fun way. 
